@@ -19,7 +19,7 @@ var x = setInterval(function(){
         document.getElementById("hours").innerHTML = "00";
         document.getElementById("minutes").innerHTML = "00";
         document.getElementById("seconds").innerHTML = "00";
-        alert("happy birthday");
-        location.href = '/hone.html'
+        alert("Happy Birthday");
+        location.href = '/home.html'
     }
 },1000);
