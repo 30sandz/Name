@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two&family=Oswald&display=swap');
+body {
+    margin: 0;
+    overflow-x: hidden;
+}
+.wrapper {
+    z-index: 0;
+    min-height: 100vh;
+    background: url(/img/hb2.jfif);
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+}
+.texts {
+    width: 99%;
+    color: white;
+    border: solid transparent;
+    z-index: 1;
+    position: relative;
+}
+.texts h2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Oswald', sans-serif;
+    position: relative;
+    top: -15px;
+    left: -15px;
+}
+.texts h3 {
+    width: 100%;
+    transform: translateY(50px);
+    font-family: 'Lobster Two', cursive;
+    font-size: 25px;
+}
+.counter {
+    margin-top: 50px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    backdrop-filter: blur(25px);
+    padding: 20px 0px;
+    border-radius: 25px;
+}
+.counter div {
+    flex-basis: 70px;
+}
+.counter :hover {
+    color: black;
+    margin-right: 15px;
+    font-size: 45px;
+}
+.counter div p {
+    font-size: 50px;
+    margin-bottom: 25px;
+}
