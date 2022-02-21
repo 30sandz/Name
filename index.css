@@ -6,13 +6,13 @@ body {
 .wrapper {
     z-index: 0;
     min-height: 100vh;
-    background: url(/img/hb2.jfif);
+    background: url(/img/hb7.jpg);
     background-repeat: no-repeat;
     background-size: 100vw 100vh;
 }
 .texts {
     width: 99%;
-    color: white;
+    color: black;
     border: solid transparent;
     z-index: 1;
     position: relative;
@@ -34,7 +34,7 @@ body {
 }
 .counter {
     margin-top: 50px;
-    color: white;
+    color: black;
     display: flex;
     justify-content: center;
     align-items: center;
