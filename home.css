@@ -15,12 +15,12 @@ body {
     left: 35vh;
     width: 100px;
     height: 100px;
-    background-image: url(./img/hb1.jpg);
+    background-image: url(hb1.jpg);
     background-size: cover;
 }
 .wrapper {
     height: 550px;
-    background-image: url(./img/hb1.jpg);
+    background-image: url(hb1.jpg);
     background-repeat: no-repeat;
     background-size: 500px 532px;
     background-attachment: fixed;
@@ -30,7 +30,7 @@ body {
     border: solid -2px;
     background-color: pink;
     padding: 15px 15px;
-    background-image: url(/img/happy-birthday-dark-background-with-glossy-balloons_1017-25817.jpg);
+    background-image: url(happy-birthday-dark-background-with-glossy-balloons_1017-25817.jpg);
     height: 505px;
     background-repeat: no-repeat;
     background-size: 500px 532px;
