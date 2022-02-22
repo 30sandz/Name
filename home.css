@@ -19,7 +19,7 @@ body {
     background-size: cover;
 }
 .wrapper {
-    height: 550px;
+    min-height: 100vh;
     background-image: url(hb1.jpg);
     background-repeat: no-repeat;
     background-size: 500px 532px;
@@ -28,7 +28,7 @@ body {
 .content {
     color: white;
     border: solid -2px;
-    background-color: white;
+    background-color: black;
     padding: 15px 15px;
     background-image: url(happy-birthday-dark-background-with-glossy-balloons_1017-25817.jpg);
     min-height:100vh;
