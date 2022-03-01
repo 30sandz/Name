@@ -20,7 +20,7 @@ body {
 }
 .wrapper {
     min-height: 100vh;
-    background-image: url(hb1.jpg);
+        background: linear-gradient(360deg ,black,grey,grey,whitesmoke,grey);
     background-repeat: no-repeat;
     background-size: 500px 532px;
     background-attachment: fixed;
