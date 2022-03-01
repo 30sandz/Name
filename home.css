@@ -62,3 +62,26 @@ footer {
     justify-content: center;
     align-items: center;
 }
+.text20 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    top: 50%;
+    left: 55%;
+    font-size: 20px;
+}
+#arrow {
+    position: absolute;
+    top: 42vh;
+    left: 43vh;
+    animation: scroll 2s infinite;
+}
+
+@keyframes scroll {
+    0% {
+        position: absolute;
+        top: 44vh;
+    }
+    100% {
+        opacity: 0;
+    }
+}
