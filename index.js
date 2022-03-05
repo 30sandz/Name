@@ -20,7 +20,7 @@ var x = setInterval(function(){
         document.getElementById("hours").innerHTML = "00";
         document.getElementById("minutes").innerHTML = "00";
         document.getElementById("seconds").innerHTML = "00";
-        alert("Happy Birthday");
+        alert("Happy Birthday Monisha");
         location.href = '/Monisha/home.html'
     }
 },1000);
