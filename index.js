@@ -21,6 +21,6 @@ var x = setInterval(function(){
         document.getElementById("minutes").innerHTML = "00";
         document.getElementById("seconds").innerHTML = "00";
         alert("Happy Birthday");
-        location.href = '/home.html'
+        location.href = '/Monisha/home.html'
     }
 },1000);
