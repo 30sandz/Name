@@ -22,6 +22,6 @@ var x = setInterval(function(){
         document.getElementById("seconds").innerHTML = "00";
         alert("Happy Birthday");
 
-        location.href = '/Names/home.html'
+        location.href = '/Name/home.html'
     }
 },1000);
